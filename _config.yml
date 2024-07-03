@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Ali FAKHAR"
   pronouns         : "He, his"  
-  #bio              : "Short biography for the left-hand sidebar"
+  bio              : "Doctoral student"
   location         : "Grenoble, France"
   employer         : "multidisciplinary institute\n in artificial intelligence (MIAI)"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        :  alifakhar98
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : ali-fakhar98
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
