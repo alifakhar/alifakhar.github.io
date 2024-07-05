@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+
+
 Bonjour,
 
-My name is Ali Fakhar. I am a Ph.D. student in Applied Mathematics (Statistics and Optimization) advised by [Prof.Sophie Achard](https://scholar.google.fr/citations?user=9Xx9B-4AAAAJ&hl=en), Prof.Irene Gannaz and Prof.Kevin Polisano in statisfy group(INRIA), (LJK, Grenoble, France).
+My name is Ali Fakhar. I am a Ph.D. student in Applied Mathematics (Statistics and Optimization) advised by [Prof.Sophie Achard](https://scholar.google.fr/citations?user=9Xx9B-4AAAAJ&hl=en), Prof.Irene Gannaz and Prof.Kevin Polisano in statisfy group (INRIA), (LJK, Grenoble, France).
 
 My main interests are statistical signal processing, and optimization. I, currently, focus on optimization on the PSD cone and its intersection with chordal graph. The crucial applications of it revolves around learning correlation matrix and graph learning.
 
