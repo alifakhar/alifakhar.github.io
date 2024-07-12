@@ -11,7 +11,7 @@ locale                   : "en-FR"
 title                    : "Ali FAKHAR"
 title_separator          : "-"
 name                     : &name "Ali"
-description              : &description "Doctoral student at Statisfy group (INRIA) [LJK, Grenoble, France]"
+description              : &description "Doctoral student at Statisfy group (INRIA) [France, Grenoble, laboratoire jean kuntzmann]"
 url                      : https://alifakhar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alifakhar.github.io"
@@ -26,9 +26,9 @@ author:
   pronouns         : "He, his"  
   bio              : "Doctoral student"
   location         : "Grenoble, France"
-  employer         : "multidisciplinary institute\n in artificial intelligence (MIAI)"
+  employer         : #
   uri              : # URL
-  email            : 
+  email            : "[Firstname][Lastname]2013@yahoo.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
