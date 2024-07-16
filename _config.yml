@@ -15,7 +15,7 @@ description              : &description "Doctoral student at Statisfy group (INR
 url                      : https://alifakhar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alifakhar.github.io"
-email                    : "[Firstname][Lastname]2013@yahoo.com"
+
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -27,7 +27,7 @@ author:
   name             : "Ali FAKHAR"
   pronouns         : "He, his"  
   bio              : "Doctoral student"
-  location         : "Grenoble, France"
+  location         : "France"
   employer         : #
   uri              : # URL
 
