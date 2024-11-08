@@ -63,11 +63,8 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
 
-# CV
-
 ## Education
-======
-* Ph.D in Applied Mathematics (Mathematics, Information Science, Computer Science), Univ-Grenoble-Alpes (Laboratoire Jean Kuntzmann), February 2024 - Present
+* Ph.D in Applied Mathematics (Mathematics, Information Science, Computer Science), Univ-Grenoble-Alpes , February 2024 - Present
   * Title: Graph Statistical Learning in Neuroscience
   * Advisors: Prof. Sophie Achard, Prof. Irene Gannaz, Prof. Kevin Polisano
 * M.Sc in Electrical Engineering - Communication Systems, Sharif University of Technology, October 2021 - September 2023
