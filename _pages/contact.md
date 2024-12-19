@@ -16,5 +16,5 @@ Office 163, IMAG,\
 
 
 **Email:**,\
-[Firstname][lastname]2013@yahoo.com (preferred),\
-[Firstname].[lastname]@univ-grenoble-alpes.fr
+AliFAKHAR2013[at]yahoo[dot]com (preferred),\
+Ali[dot]FAKHAR[at]univ-grenoble-alpes[dot]fr

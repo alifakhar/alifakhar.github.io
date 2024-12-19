@@ -11,7 +11,7 @@ redirect_from:
 
 Bonjour,
 
-My name is Ali Fakhar (علی فخار). I am a Ph.D. student, focusing on statistics and optimization advised by [Prof.Sophie Achard](https://scholar.google.fr/citations?user=9Xx9B-4AAAAJ&hl=en), Prof.Irene Gannaz and Prof.Kevin Polisano in statify group ([INRIA](https://www.inria.fr/en)), (France, Grenoble, laboratoire jean kuntzmann). My research is supported by a grant from the Multidisciplinary Institute in Artificial Intelligence ([MIAI](https://miai.univ-grenoble-alpes.fr/)).
+My name is Ali Fakhar. I am a Ph.D. student, focusing on statistics and optimization advised by [Prof.Sophie Achard](https://scholar.google.fr/citations?user=9Xx9B-4AAAAJ&hl=en), Prof.Irene Gannaz and Prof.Kevin Polisano in Grenoble, France). My research is supported by a grant from the Multidisciplinary Institute in Artificial Intelligence ([MIAI](https://miai.univ-grenoble-alpes.fr/)).
 
 My main interests are statistical signal processing, and optimization. I, currently, focus on optimization on the PSD cone and its intersection with chordal graph. The crucial applications of it revolves around correlation matrix and graph learning. We focus on brain and its signal to learn more about brain and correlation of different regions of brain.
 
