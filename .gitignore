@@ -1,0 +1,82 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+*.jemdoc
+*.txt
+
+# Ignore built executables and object files
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.obj
+
+# Ignore temporary files
+*~
+*.swp
+*.swo
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Ignore build directories
+build/
+dist/
+bin/
+
+# Ignore dependency directories
+node_modules/
+vendor/ # Common for various languages
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore sensitive files
+.env # Environment variables
+.env.*
+
+# Ignore IDE specific files (examples - uncomment or add as needed)
+# .idea/ # IntelliJ IDEA
+# .vscode/ # VS Code
+# *.sublime-project
+# *.sublime-workspace
+# .settings/ # Eclipse
+# .project  # Eclipse
+# .classpath # Eclipse
+
+# Ignore package manager files (examples - uncomment or add as needed)
+# package-lock.json # npm
+# yarn.lock # Yarn
+# Gemfile.lock # Ruby
+# composer.lock # PHP
+
+# Ignore test coverage reports
+coverage/
+.coverage
+
+# Ignore deployment artifacts
+*.tar.gz
+*.zip
+*.rar
+
+# Ignore generated documentation
+docs/ # If generated
+
+# Ignore database files (examples - be careful with this)
+# *.sqlite
+# *.db
+
+# Ignore user-specific files
+.bash_history
+. группа_истории
+.zsh_history
+
+# Ignore editor backup files
+*.bak
+
+# Ignore system files
+.Trash*/
+
+# Ignore thumbnails
+.thumbnails/
