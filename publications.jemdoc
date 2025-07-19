@@ -2,29 +2,29 @@
 = Ali FAKHAR -- Publications
 
 
-== Dissertation
+# == Dissertation
 
-My PhD dissertation, when completed, will be available here.
+# My PhD dissertation, when completed, will be available here.
 
 
 == Preprints & Journal Articles
 
-- **Generating correlation matrices with graph structures using convex optimization**  Ali Fakhar, Kevin Polisano, Irene Gannaz, and Sophie Achard. _arXiv preprint arXiv:2502.17981_, 2025. [[https://arxiv.org/abs/2502.17981][arXiv]]
+- **Generating correlation matrices with graph structures using convex optimization**  Ali Fakhar, Kevin Polisano, Irene Gannaz, and Sophie Achard. _arXiv preprint arXiv:2502.17981_, 2025. [/https://arxiv.org/abs/2502.17981 pdf]
 
-- **Benchmarking Brain Connectivity Graph Inference: A Novel Validation Approach**  Alice Chevaux, Ali Fakhar, Kevin Polisano, Irene Gannaz, and Sophie Achard. _arXiv preprint arXiv:2503.15012_, 2025. [[https://arxiv.org/abs/2503.15012][arXiv]]
+- **Benchmarking Brain Connectivity Graph Inference: A Novel Validation Approach**  Alice Chevaux, Ali Fakhar, Kevin Polisano, Irene Gannaz, and Sophie Achard. _arXiv preprint arXiv:2503.15012_, 2025. [/https://arxiv.org/abs/2503.15012 pdf]
 
 - **Generation de Matrices de Correlation avec des Structures de Graphe par Optimisation Convexe**  Ali Fakhar, Kevin Polisano, Irene Gannaz, and Sophie Achard. 2025.
 
 
-== Theses
+# == Theses
 
-- **PhD Thesis:** [Title of PhD Thesis] (Expected 202X)
-  _Supervisors:_ Prof. Sophie Achard, Prof. Irene Gannaz, Prof. Kevin Polisano.
+# - **PhD Thesis:** [Title of PhD Thesis] (Expected 202X)
+#  _Supervisors:_ Prof. Sophie Achard, Prof. Irene Gannaz, Prof. Kevin Polisano.
 
-- **Master's Thesis:** [Title of Master's Thesis]
-  _Supervisor:_ Prof. Massoud Babaie-Zadeh.
-  Sharif University of Technology.
+# - **Master's Thesis:** #[Title of Master's Thesis]
+#  _Supervisor:_ Prof. Massoud Babaie-Zadeh.
+#  Sharif University of Technology.
 
-- **Bachelor's Thesis:** [Title of Bachelor's Thesis]
-  _Supervisor:_ [Bachelor's Supervisor Name]
-  IUST.
+# - **Bachelor's Thesis:** [Title of Bachelor's Thesis]
+#  _Supervisor:_ [Bachelor's Supervisor Name]
+#  IUST.
